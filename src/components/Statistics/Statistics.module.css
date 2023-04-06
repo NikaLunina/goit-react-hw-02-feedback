@@ -1,13 +1,13 @@
-.statisticslist{
-display: flex;
-flex-direction: column;
-gap: 10px;
-    flex-direction: column;
-    list-style: none;
-    font-weight: bold;
-    color: #363636;
-    width: 100%;
-    margin: 30px auto auto auto;
-    padding: 0;
-    margin-bottom: 30px;
+.statisticslist {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex-direction: column;
+  list-style: none;
+  font-weight: bold;
+  color: #363636;
+  width: 100%;
+  margin: 30px auto auto auto;
+  padding: 0;
+  margin-bottom: 30px;
 }
