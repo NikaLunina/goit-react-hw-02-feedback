@@ -1,0 +1,27 @@
+.list{
+    display: grid;
+    flex-direction: row;
+    list-style: none;
+    grid-template-columns: repeat(3, 1fr);
+    width: 100%;
+    margin: 30px auto auto auto;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+
+.button{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+    border: 2px solid #363636;
+    background-color: #c9c9c9;
+    border-top: 2px solid #363636;
+    font-weight: bold;
+    border-radius: 20px;
+    text-transform: capitalize;
+}
